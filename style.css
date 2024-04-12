@@ -27,6 +27,7 @@
         color: yellow;
         font-size: 3em;
         text-decoration:underline;
+        height: auto;
     }
 
     header a {
