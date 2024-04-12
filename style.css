@@ -1,6 +1,8 @@
  @charset "UTF-8";
  
  body {
+        max-height: 1000px;
+        min-height: 300px;
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
@@ -23,7 +25,7 @@
 
     header a {
         font-size: 1.1em;
-                text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.482);
+        text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.482);
     }
 
     nav ul {
@@ -34,6 +36,7 @@
     nav ul li {
         display: inline;
         margin-right: 10px;
+        margin-top: 0px;
     }
 
     nav ul li a {
@@ -86,11 +89,13 @@
     }
 
 #logo {
-    position:absolute;
-    top: 24px;
-    left: 20px;
-    width: 130px; 
-    height: auto; 
+    height: 98px;
+    margin-right: auto;
+    margin-left: -1351px;
+    margin-top: 5px;
+    max-width: 130px; 
+    min-width: 60px;
+
 }
 
 #foto-perfil {
