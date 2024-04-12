@@ -23,6 +23,12 @@
 
     }
 
+    header h2{
+        color: yellow;
+        font-size: 3em;
+        text-decoration:underline;
+    }
+
     header a {
         font-size: 1.1em;
         text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.482);
