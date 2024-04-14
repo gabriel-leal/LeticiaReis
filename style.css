@@ -152,6 +152,7 @@
     color: #ff02ea;
     transition-duration: 0.5s;
     font-weight: bold;
+    cursor: pointer;
 }
 
 #contato {
