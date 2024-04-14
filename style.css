@@ -59,11 +59,11 @@
 
     footer {
         background-color: #141414d2;
+        text-align: center;
         color: #fff;
-        padding: 1px 0;
-        bottom: 0;
+        padding: 1px;
         position: relative; 
-        width: 100%;
+        padding-top: 14px;
     }
     
     a {
@@ -109,7 +109,7 @@
 #sobre {
     background-color: #ff02ea;
     height: 380px;
-    padding-right: 10px;
+    padding-left: 3px;
 }
 
 #sobre-trabalho {
@@ -155,9 +155,12 @@
 }
 
 #contato {
+    text-align:justify;
+    padding-left: 3px;
     background-color: #BB1EB3;
     color: white;
     #insta { color: #850770; font-size: 25px;}
+    
 }
 
 .onde-atendo {
