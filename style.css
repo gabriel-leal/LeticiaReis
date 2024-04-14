@@ -110,6 +110,7 @@
     background-color: #ff00ea5c;
     height: 380px;
     padding-left: 3px;
+    padding-top: 6px;
 }
 
 #sobre-trabalho {
@@ -158,6 +159,7 @@
 #contato {
     text-align:justify;
     padding-left: 3px;
+    padding-top: 4px;
     background-color: #e779e1;
     color: rgb(0, 0, 0);
     #insta { color: #850770; font-size: 25px;}
