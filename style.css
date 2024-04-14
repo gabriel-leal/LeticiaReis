@@ -135,17 +135,17 @@
 }
 
 #servicos {
-    background-color:#ff02ea;
+    background-color:#ff02ea88;
     padding: 10px;
 }
 
 .accordion-item {
-    background-color: #ff02ea;
+    background-color: #ff02ea88;
     font-size: 1.3em;
 }
 
 .accordion-button  {
-    background-color:#BB1EB3;
+    background-color:#db3cce;
     font-size: 20px;
     margin: 0;
 }
