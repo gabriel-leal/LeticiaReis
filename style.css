@@ -10,7 +10,7 @@
     }
 
     header {
-        background-image: linear-gradient(to bottom, #761471, #db3cce);
+        background-image: linear-gradient(to bottom, #ec65e5ea, #f860eb);
         padding: 16px;
         text-align: center;
         position: relative;
@@ -107,7 +107,7 @@
 }
 
 #sobre {
-    background-color: #ff02ea;
+    background-color: #ff00ea5c;
     height: 380px;
     padding-left: 3px;
 }
@@ -123,6 +123,7 @@
     color: white;
     h2 {
         font-family: serif;
+        margin-top: 10px;
     }
     a, p {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -135,17 +136,17 @@
 }
 
 #servicos {
-    background-color:#ff02ea88;
+    background-color:#ffd7fc;
     padding: 10px;
 }
 
 .accordion-item {
-    background-color: #ff02ea88;
+    background-color: rgb(255, 206, 247);
     font-size: 1.3em;
 }
 
 .accordion-button  {
-    background-color:#db3cce;
+    background-color:#ffd1fb;
     font-size: 20px;
     margin: 0;
 }
@@ -157,8 +158,8 @@
 #contato {
     text-align:justify;
     padding-left: 3px;
-    background-color: #BB1EB3;
-    color: white;
+    background-color: #e779e1;
+    color: rgb(0, 0, 0);
     #insta { color: #850770; font-size: 25px;}
     
 }
