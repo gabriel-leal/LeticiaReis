@@ -23,13 +23,6 @@
 
     }
 
-    header h2{
-        color: yellow;
-        font-size: 2.5em;
-        text-decoration:underline;
-        height: auto;
-    }
-
     header a {
         font-size: 1.1em;
         text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.482);
@@ -38,6 +31,7 @@
     nav ul {
         list-style-type: none;
         padding: 0;
+        margin-top: 15px;
     }
 
     nav ul li {
@@ -98,7 +92,6 @@
 #logo {
     height: 98px;
     margin-right: auto;
-    margin-left: -1351px;
     margin-top: 5px;
     max-width: 130px; 
     min-width: 60px;
@@ -142,17 +135,23 @@
 }
 
 #servicos {
-    background-color: #b315a62c;
-    height: auto;
-    width: auto;
+    background-color:#ff02ea;
+    padding: 10px;
 }
 
-#servicos h3:hover {
+.accordion-item {
+    background-color: #ff02ea;
     font-size: 1.3em;
-    color: #ff02ea;
-    transition-duration: 0.5s;
-    font-weight: bold;
-    cursor: pointer;
+}
+
+.accordion-button  {
+    background-color:#BB1EB3;
+    font-size: 20px;
+    margin: 0;
+}
+
+.accordion accordion-flush {
+    background-color: #BB1EB3;
 }
 
 #contato {
