@@ -10,7 +10,7 @@
     }
 
     header {
-        background-image: linear-gradient(to bottom, #ec65e5ea, #f860eb);
+        background-image: linear-gradient(to bottom, #ec65e5ea, #c54cbb);
         padding: 16px;
         text-align: center;
         position: relative;
@@ -107,7 +107,7 @@
 }
 
 #sobre {
-    background-color: #ff00ea5c;
+    background-color: #ff02ea;
     height: 380px;
     padding-left: 3px;
     padding-top: 6px;
