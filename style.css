@@ -116,6 +116,7 @@
 #sobre-trabalho {
     padding-left: 9px;
     background-image: url(imagens/escritorio.jpg);
+    height: 600px;
     background-position: center;
     background-size: cover;
     overflow-x: hidden;
