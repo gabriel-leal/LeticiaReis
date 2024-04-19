@@ -3,7 +3,7 @@
  body {
         max-height: 1000px;
         min-height: 400px;
-        font-family: Arial, sans-serif;
+        font-family: 'Times New Roman', Times, serif;
         margin: 0;
         padding: 0;
         background-color: #fff8fa;
@@ -107,7 +107,8 @@
 }
 
 #sobre {
-    background-color: #ff02ea;
+    font-size: 1.5em;
+    background-color: #ff4ef0;
     height: 380px;
     padding-left: 3px;
     padding-top: 6px;
